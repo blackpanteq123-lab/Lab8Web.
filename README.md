@@ -1,5 +1,8 @@
 struktur folder
+
+
 <img width="459" height="478" alt="image" src="https://github.com/user-attachments/assets/9b6fd4d1-ecbe-46b4-80cb-aad4c5cc973e" />
+
 
 File hapus.php
 <img width="1374" height="584" alt="image" src="https://github.com/user-attachments/assets/0fe431df-deeb-4ceb-9963-578187d783a9" />
